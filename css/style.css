@@ -1,0 +1,16 @@
+h2{border:solid 50px palevioletred;
+background-color: pink;
+}
+h3{border:dashed 6px skyblue ;}
+
+h4{border: 7px deepskyblue solid
+ ;} 
+ h4{font-size: 30px;}
+ h4{background-color: deepskyblue;}
+ }
+
+h6{border: 7px limegreen solid;}
+h6{font-size: 70px;}
+
+p{border: 7px  limegreen solid;}
+
